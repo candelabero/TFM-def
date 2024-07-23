@@ -1,0 +1,1 @@
+El archivo qualifying_1960-2024.csv es el dataset original, el llamado qualifying_1960-2024_seleccionado es el resultante de aplicarle al primero el código "limpieza datos", y el que hemos utilizado para la modelización.
