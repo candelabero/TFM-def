@@ -1,1 +1,3 @@
-
+El código "Limpieza datos" es el aplicado al dataset original qualifying_1960-2024.csv para llegar al que finalmente hemos utilizado para la modelización.
+"MODELOS inicial": primera fase de modelización, i.e. el desarrollo de tres modelos distintos de predicción, antes de añadir más variables al dataset.
+"MODELOS con + variables": segunda fase de modelización, enriquecemos el dataset con nuevas variables y ejecutamos los mismos tres modelos para comprobar si hay mejora.
